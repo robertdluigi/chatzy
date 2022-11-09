@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>968899515096-ucaajera7j276e8gd9eog85ffdqmt6f0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.968899515096-ucaajera7j276e8gd9eog85ffdqmt6f0</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBSYy12-QGaFichjUXr1nVUY4SSaCdMe2c</string>
+	<key>GCM_SENDER_ID</key>
+	<string>968899515096</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.robertdocan.apps.chatzy</string>
+	<key>PROJECT_ID</key>
+	<string>chatzy-882da</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chatzy-882da.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:968899515096:ios:b264a045d22bee7769fdad</string>
+</dict>
+</plist>
